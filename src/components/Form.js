@@ -1,6 +1,6 @@
 import React from "react";
 
-import search from "./Search.png";
+import search from "../images/Search.png";
 
 const Form = props => {
   return (

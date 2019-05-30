@@ -1,8 +1,8 @@
 import React from "react";
 
-import logo from "./Logo.png";
-import more from "./More.png";
-import home from "./Home-color.png";
+import logo from "../images/Logo.png";
+import more from "../images/More.png";
+import home from "../images/Home-color.png";
 
 export default function Navbar() {
   return (
